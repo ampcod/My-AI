@@ -1,5 +1,5 @@
 ## Overview
-The Voice Assistant Information Bot is an AI project created using Python whose main focus is to providing information related to the agricultural segment.
+The Voice Assistant Information Bot is an AI project created using Python whose main focus is to provide information related to the agricultural segment more easily accessible.
 
 ## Features
 - Utilizes speech recognition for user input.
